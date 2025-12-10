@@ -1,1 +1,5 @@
+<<<<<<< HEAD
 echo "change from main"
+=======
+echo "change from featur-a"
+>>>>>>> featur-a
